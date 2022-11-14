@@ -33,7 +33,7 @@ body{
 
 .product-picture{
     max-width: 1550px;
-    background: url(images/image-product-desktop.jpg);
+    background: url(image-product-desktop.jpg);
     background-size: 100%;
     width: 100%;
     border-radius: 0.5rem
@@ -126,7 +126,7 @@ body{
     }
 
     .product-picture{
-    background-image: url(images/image-product-mobile.jpg) no-repeat;
+    background-image: url(image-product-mobile.jpg) no-repeat;
     background-size: 100%;
     background-position: fixed;
     object-fit: scale-down;
